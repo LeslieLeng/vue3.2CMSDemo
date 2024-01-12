@@ -1,0 +1,54 @@
+@charset "utf-8";
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-width: 1280px;
+}
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    height: 100%;
+    border-radius: 4px;
+    position: relative;
+}
+
+
+
+.pl-15 {
+    padding-left: 15px !important;
+    box-sizing: border-box;
+}
+
+.mt-15 {
+    margin-top: 15px !important;
+}
+
+.mb-15 {
+    margin-bottom: 15px !important;
+}
+
+.ml-15 {
+    margin-left: 15px !important;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.tc {
+    text-align: center;
+}
+
+
+
+
+
